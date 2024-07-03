@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.zero{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    margin-top: -60px;
+}
+.head{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content:space-between;
+    gap: 8%;
+    margin-right: 10%;
+}
+.main{
+    margin-top: 50px;
+  
+  padding: 7px;
+  
+  height: 70%;
+ 
+  display: flex;
+}
+.first{
+    
+    background-color: #C2E1FE;
+ text-align: center;
+ justify-content: center;
+  font-size: larger;
+  padding: 80px;
+  margin: 0px;
+  width: 500%;
+
+}
+.james{
+    display: flex;
+   
+    flex-wrap: wrap;
+    padding: 2%;
+    justify-content: space-between;
+}
+.iphone{
+    background-color: #E7E7E7;
+    display: flex;
+    gap: 30%;
+    padding: 3%;
+}
+.peter{
+    display: flex;
+   
+    flex-wrap: wrap;
+    padding: 2%;
+    justify-content: space-between;
+    font-size: small;
+}
+.two{
+    font-size:large;
+}
